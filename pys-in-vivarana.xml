@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Pātañjalayogaśāstra</title>
         <title type="sub">Yogasūtra with Bhāṣya</title>
-        <title type="sub">A SARIT edition</title>
+        <title type="sub">Branched off from A SARIT edition</title>
         <author>Patañjali</author>
         <respStmt>
           <persName>Philipp Maas</persName>
@@ -17,7 +17,7 @@
         <authority>SARIT: Search and Retrieval of Indic Texts</authority>
         <availability status="restricted">
           <p>Copyright Notice</p>
-          <p>Copyright <persName>Philipp Maas</persName> 2013-2017</p>
+          <p>Copyright <persName>Peter Pasedach</persName> 2023</p>
           <p>
             <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed
               by <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a Creative
@@ -64,6 +64,17 @@
           <note>The transcription below excludes the commentary of Bhojadeva, the sūtrapāṭha and
             indexes.</note>
         </bibl>
+          <msDesc>
+          <msIdentifier>
+            <idno type="siglum">PVR</idno>
+          </msIdentifier>
+          
+          <msContents>
+             <msItem>
+                <textLang mainlang="sa-Deva">Sanskrit.</textLang>
+             </msItem>
+          </msContents>
+       </msDesc>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -103,6 +114,8 @@
       <change when="2016-07-15" who="Dominik Wujastyk">Refactored the text to follow example 3 of
         the SARIT simple guidelines, i.e., putting each sutra+bhasya into a div element, each sutra
         in a quote element and each paragraph of bhasya in a paragraph element.</change>
+      <change when="2023-04-26" who="Peter Pasedach">Started adapting the text to be use with Upama.
+        Further revision history to be seen from git history.</change>
     </revisionDesc>
   </teiHeader>
 
@@ -3469,8 +3482,8 @@
 
 
         </div>
-      </div>
 -->
+      </div>
 
 
     </body>
