@@ -3102,35 +3102,35 @@
 
 
         </div>
+-->
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.12">
             <p>atītānāgataṃ svarūpato+asty adhvabhedād dharmāṇām <label>[YS 4.12]</label></p>
           </quote>
 
-          <p>bhaviṣyadvyaktikam anāgatam anubhūtavyaktikam atītaṃ svavyāpāropārūḍhaṃ vartamānaṃ,
+          <p xml:id="YBh.4.12.1">bhaviṣyadvyaktikam anāgataṃ bhūtavyaktikam atītaṃ vyāpāropārūḍhaṃ vartamānaṃ,
             trayaṃ caitad vastu jñānasya jñeyam. yadi caitat svarūpato nābhaviṣyan nedaṃ nirviṣayaṃ
-            jñānam udapatsyata. tasmād atītānāgataṃ svarūpato+astīti. kiṃca bhogabhāgīyasya
-            vāpavargabhāgīyasya vā karmaṇaḥ phalam utpitsu yadi nirupākhyam iti taduddeśena tena
-            nimittena kuśalānuṣṭhānaṃ na yujyeta. sataś ca phalasya nimittaṃ vartamānīkaraṇe
-            samarthaṃ nāpūrvopajanane siddhaṃ nimittaṃ naimittikasya viśeṣānugrahaṇaṃ kurute
-            nāpūrvam utpādayatīti.</p>
-          <p>dharmī cānekadharmasvabhāvas tasya cādhvabhedena dharmāḥ pratyavasthitāḥ na ca yathā
-            vartamānaṃ vyaktiviśeṣāpannaṃ dravyato+asty evam atītam anāgataṃ ca. kathaṃ tarhi,
-            svenaiva vyaṅgyena svarūpeṇānāgatam asti. svena cānubhūtavyaktikena svarūpeṇātītam iti
-            vartamānasyaivādhvanaḥ svarūpavyaktir iti na sā bhavaty atītānāgatayor adhvanoḥ. ekasya
-            cādhvanaḥ samaye dvāv adhvanau dharmisamanvāgatau bhavata eveti nābhūtvā bhāvas trayāṇām
-            adhvanām iti.</p>
+            jñānam udapatsyata. tasmād atītānāgataṃ svarūpato+asti. bhogabhāgīyasya
+            apavargabhāgīyasya vā karmaṇaḥ phalam utpitsu [...] nirupākhyam. taduddeśena tena
+            nimittena kuśalajñānam.  nimittaṃ vartamānīkaraṇe
+            samarthaṃ nāpūrvopajanane siddhaṃ nimittaṃ naimittikasya viśeṣānugrahaṃ kurute
+            nāpūrvam eva dadhi utpādayatīti.</p>
+          <p xml:id="YBh.4.12.2">dharmī cānekadharmasvabhāvas tasyādhvabhedena dharmāḥ pratyavasthitāḥ yathā
+            vartamānaṃ vyaktiviśeṣāpannaṃ dravyato+asti naivam atītam anāgataṃ ca. kiṃ tarhi?
+            svenaiva vyaṅgyena svarūpeṇānāgatam asti. svena cānubhūtavyaktikena atītam asti
+            vartamānasyaiva tv adhvanaḥ svarūpato vyaktir iti na sā bhavaty atītānāgatayor adhvanoḥ. ekasya
+            cādhvanaḥ samaye dvāv adhvanau dharmisamanvāgatau na bhavata eveti nābhūtvā bhāvas trayāṇām
+            adhvanām.</p>
 
 
         </div>
--->
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.13">
             <p>te vyaktasūkṣmā guṇātmānaḥ. <label>[YS 4.13]</label></p>
           </quote>
 
           <p xml:id="YBh.4.13.1">te khalv amī tryadhvano dharmā vartamānā vyaktātmāno+atītānāgatāḥ sūkṣmātmānaḥ
-            ṣaḍaviśeṣarūpāḥ. sarvam idaṃ guṇānāṃ saṃniveśaviśeṣamātram iti paramārthato guṇātmānaḥ.
+            ṣaḍaviśeṣasvarūpāḥ. sarvam idaṃ guṇānāṃ saṃniveśaviśeṣamātram iti paramārthato guṇātmānaḥ.
             tathā ca śāstrānuśāsanam — </p>
 
           <p xml:id="YBh.4.13.2">``<quote><lg>
@@ -3163,24 +3163,27 @@
 
 
         </div>
-<!--
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.15">
-            <p>vastusāmye cittabhedāt tayor vibhaktaḥ panthāḥ <label>[YS 4.15]</label></p>
+            <p>vastusāmye cittabhedāt tayor viviktaḥ panthāḥ <label>[YS 4.15]</label></p>
           </quote>
 
-          <p>bahucittālambanībhūtam ekaṃ vastu sādhāraṇaṃ, tat khalu naikacittaparikalpitaṃ nāpy
-            anekacittaparikalpitaṃ kiṃtu svapratiṣṭham. kathaṃ, vastusāmye cittabhedāt dharmāpekṣaṃ
-            cittasya vastusāmye+api sukhajñānaṃ bhavaty adharmāpekṣaṃ tata eva duḥkhajñānam
-            avidyāpekṣaṃ tata eva mūḍhajñānaṃ samyagdarśanāpekṣaṃ tata eva mādhyasthyajñānam iti.
-            kasya tac cittena parikalpitam. na cānyacittaparikalpitenārthenānyasya cittoparāgo
-            yuktaḥ. tasmād vastujñānayor grāhyagrahaṇabhedabhinnayor vibhaktaḥ panthāḥ. nānayoḥ
-            saṃkaragandho+apy astīti.</p>
+          <p xml:id="YBh.4.15.1">bahucittālambanībhūtam ekaṃ vastu sādhāraṇaṃ, tat khalu naikacittatantraṃ bhavati
+            anekacittaparikalpitamapi na bhavati. kiṃtu svapratiṣṭham. kathaṃ, vastusāmye cittabhedāt. dharmāpekṣaṃ
+            cittasya vastusāmye 'pi sukhajñānaṃ bhavati. tata evādharmāpekṣaṃ ahitānāṃ duḥkhajñānam
+            tasmād evāvidyāpekṣaṃ mūḍhajñānaṃ. tata eva samyagjñānāpekṣaṃ mādhyasthyajñānam.
 
-          <p>sāṃkhyapakṣe punar vastu triguṇaṃ calaṃ ca guṇavṛttam iti dharmādinimittāpekṣaṃ cittair
-            abhisaṃbadhyate. nimittānurūpasya ca pratyayasyotpadyamānasya tena tenātmanā hetur
-            bhavati. kecid āhuḥ. jñānasahabhūr evārtho bhogyatvāt sukhādivad iti ta etayā dvārā
-            sādhāraṇatvaṃ bādhamānāḥ pūrvottarakṣaṇeṣu vasturūpam evāpahnuvate.</p>
+<!--            kasya tac cittena parikalpitam. na cānyacittaparikalpitenārthenānyasya cittoparāgo
+            yuktaḥ. -->
+
+tasmād vastujñānayor grāhyagrahaṇabhedād bhinnayor viviktaḥ panthāḥ. nānayoḥ
+            saṃkaragandho 'py astīti.</p>
+
+          <p xml:id="YBh.4.15.2">vastu triguṇaṃ calaṃ ca guṇavṛttam iti dharmādinimittaṃ cāpekṣya cittair
+            abhisaṃbadhyate. nimittānurūpasya cotpadyamānasya pratyayasya tena tenātmanā hetur
+            bhavati. 
+kecid āhuḥ. jñānasahabhūr evārtho bhogyatvāt sukhādivat. te 'pi
+            sādhāraṇatvaṃ bādhamānāḥ pūrvottarakṣaṇeṣu vastusvarūpam evāpahnuvate.</p>
 
 
         </div>
@@ -3189,12 +3192,12 @@
             <p>na caikacittatantraṃ vastu tadapramāṇakaṃ tadā kiṃ syāt <label>[YS 4.16]</label></p>
           </quote>
 
-          <p>ekacittatantraṃ ced vastu syāt tadā citte vyagre niruddhe vāsvarūpam eva tenāparāmṛṣṭam
-            anyasyāviṣayībhūtam apramāṇakam agṛhītasvabhāvakaṃ kenacit tadānīṃ kiṃ tat syāt.
-            saṃbadhyamānaṃ ca punaś cittena kuta utpadyeta ye cāsyānupasthitā bhāgās te cāsya na
-            syur evaṃ nāsti pṛṣṭham ity udaram api na gṛhyeta. tasmāt svatantro+arthaḥ
-            sarvapuruṣasādhāraṇaḥ svatantrāṇi ca cittāni pratipuruṣaṃ pravartante tayoḥ saṃbandhād
-            upalabdhiḥ puruṣasya bhoga iti.</p>
+          <p xml:id="YBh.4.16.1"> ekacittatantraṃ ced vastu syāt taccitte vyagre parāsakte niruddhe vā 
+tenāparāmṛṣṭam anyasya cāviṣayībhūtam, tadā tad apramāṇakam agṛhītasvabhāvaṃ tadānīṃ kiṃ tat syāt. 
+saṃbadhyamānaṃ vā punaś cittena kuta utpadyeta. āsyānupasthitā bhāgās te cāsya na syuḥ 
+nāsti pṛṣṭham ity udaram api na syād eva. 
+tasmāt svatantro 'rthaḥ sarvapuruṣasādhāraṇaḥ svatantrāṇi ca cittāni pratipuruṣaṃ pravartante 
+tayoś ca saṃbandhād upalabdhiḥ puruṣasya bhogaḥ.</p>
 
 
         </div>
@@ -3203,25 +3206,25 @@
             <p>taduparāgāpekṣitvāc cittasya vastu jñātājñātam <label>[YS 4.17]</label></p>
           </quote>
 
-          <p>ayaskāntamaṇikalpā viṣayā ayaḥsadharmakaṃ cittam abhisaṃbandhyoparañjayanti. yena ca
-            viṣayeṇoparaktaṃ cittaṃ sa viṣayo jñātas tato+anyaḥ punar ajñātaḥ vastuno
-            jñātājñātasvarūpatvāt pariṇāmi cittam. </p>
+          <p xml:id="YBh.4.17.1">
+ayaskāntamaṇikalpā viṣayā, ayaḥsadharmakaṃ cittam abhisaṃbandhyoparañjayanti. 
+yena ca viṣayeṇoparaktaṃ cittaṃ sa viṣayo jñātaḥ 
+tato 'nyaḥ punar ajñātaḥ vastuno jñātājñātasvarūpatvāt pariṇāmi cittam. 4.17 </p>
 
-          <p>yasya tu tad eva cittaṃ viṣayas tasya —</p>
+          <p xml:id="YBh.4.18.0">yasya tu tad eva cittaṃ viṣayas tasya —</p>
 
 
         </div>
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.18">
-            <p>sadā jñātāś cittavṛttayas tatprabhoḥ puruṣasyāpariṇāmitvāt <label>[YS
-              4.18]</label></p>
+            <p>sadā jñātāś cittavṛttayas [tatprabhoḥ puruṣasyāpariṇāmitvāt]</p>
           </quote>
 
-          <p>yadi cittavat prabhur api puruṣaḥ pariṇamet tatas tadviṣayāś cittavṛttayaḥ
-            śabdādiviṣayavaj jñātājñātāḥ syuḥ sadājñātatvaṃ tu manasas tatprabhoḥ
+          <p xml:id="YBh.4.18.1">yadi cittavat prabhur api puruṣaḥ pariṇamet, tatas tadviṣayāś cittavṛttayaḥ
+            cittasyeva śabdādiviṣayāḥ, jñātā ajñātāḥ api syuḥ sadā jñātatvaṃ manasaḥ tat prabhoḥ
             puruṣasyāpariṇāmitvam anumāpayati.</p>
 
-          <p>syād āśaṅkā cittam eva svābhāsaṃ viṣayābhāsaṃ ca bhaviṣyatīty agnivat —</p>
+          <p xml:id="YBh.4.18.2">syād āśaṅkā --- cittam eva svābhāsaṃ viṣayābhāsaṃ ca bhaviṣyatīti</p>
 
 
         </div>
@@ -3230,16 +3233,16 @@
             <p>na tat svābhāsaṃ dṛśyatvāt <label>[YS 4.19]</label></p>
           </quote>
 
-          <p>yathetarāṇīndriyāṇi śabdādayaś ca dṛśyatvān na svābhāsāni tathā mano+api pratyetavyam.
-            na cāgnir atra dṛṣṭāntaḥ na hy agnir ātmasvarūpam aprakāśaṃ prakāśayati prakāśaś cāyaṃ
-            prakāśyaprakāśakasaṃyoge dṛṣṭaḥ. na ca svarūpamātre+asti saṃyogaḥ kiṃca svābhāsaṃ cittam
-            ity agrāhyam eva kasyacid iti śabdārthaḥ. tadyathā svātmapratiṣṭham ākāśaṃ na
-            parapratiṣṭham ity arthaḥ svabuddhipracārapratisaṃvedanāt sattvānāṃ pravṛttir dṛśyate
-            — kruddho+ahaṃ bhīto+aham amutra me rāgo+amutra me krodha iti etat svabuddher agrahaṇe
+          <p xml:id="YBh.4.19.1">yathetarāṇīndriyāṇi śabdādayaś  na svābhāsāni dṛśyatvāt. tathā mano 'pi pratyetavyam.
+            na cāgnir atra dṛṣṭāntaḥ. na hy agnir ātmasvarūpam aprakāśaṃ prakāśayati. prakāśaś cāyaṃ
+            prakāśyaprakāśakasaṃyoge dṛṣṭaḥ. na ca svarūpamātre 'sti saṃyogaḥ. kiṃca svābhāsaṃ cittam
+            ity agrāhyam eva cittam syād iti. evaṃ śabdārthaḥ. tadyathā svātmapratiṣṭham ākāśam, apratiṣṭhitam iti svabuddhipracārapratisaṃvedanāt sattvānāṃ pravṛttir dṛśyate.
+            kruddho 'haṃ bhīto 'ham amutra me rāgo 'mutra me krodha iti etat svabuddher agrahaṇe
             na yuktam iti.</p>
 
 
         </div>
+<!--
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.20">
             <p>ekasamaye cobhayānavadhāraṇam <label>[YS 4.20]</label></p>
