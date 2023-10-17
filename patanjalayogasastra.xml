@@ -3238,10 +3238,10 @@
             <p>ekasamaye cobhayānavadhāraṇam <label>[YS 4.20]</label></p>
           </quote>
 
-          <p>na caikasmin kṣaṇe svapararūpāvadhāraṇaṃ yuktaṃ, kṣaṇikavādino yad bhavanaṃ saiva kriyā
+          <p xml:id="YBh.4.20.1">na caikasmin kṣaṇe svapararūpāvadhāraṇaṃ yuktaṃ, kṣaṇikavādino yad bhavanaṃ saiva kriyā
             tad eva ca kārakam ity abhyupagamaḥ.</p>
 
-          <p>syān matiḥ svarasaniruddhaṃ cittaṃ cittāntareṇa samanantareṇa gṛhyata iti ---</p>
+          <p xml:id="YBh.4.20.2">syān matiḥ svarasaniruddhaṃ cittaṃ cittāntareṇa samanantareṇa gṛhyata iti ---</p>
 
 
         </div>
@@ -3251,7 +3251,7 @@
               4.21]</label></p>
           </quote>
 
-          <p>atha cittaṃ cec cittāntareṇa gṛhyeta buddhibuddhiḥ kena gṛhyate, sāpy anyayā sāpy
+          <p xml:id="YBh.4.21.1">atha cittaṃ cec cittāntareṇa gṛhyeta buddhibuddhiḥ kena gṛhyate, sāpy anyayā sāpy
             anyayety atiprasaṅgaḥ. smṛtisaṃkaraś ca, yāvanto buddhibuddhīnām anubhavās tāvatyaḥ
             smṛtayaḥ prāpnuvanti. tatsaṃkarāc caikasmṛtyanavadhāraṇaṃ ca syād ity evaṃ
             buddhipratisaṃvedinaṃ puruṣam apalapadbhir vaināśikaiḥ sarvam evākulīkṛtam. te tu
@@ -3262,7 +3262,7 @@
             evāpahnuvate. sāṃkhyayogādayas tu pravādāḥ svaśabdena puruṣam eva svāminaṃ cittasya
             bhoktāram upayantīti.</p>
 
-          <p>katham ---</p>
+          <p xml:id="YBh.4.21.2">katham ---</p>
 
 
         </div>

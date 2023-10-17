@@ -3242,16 +3242,15 @@ tato 'nyaḥ punar ajñātaḥ vastuno jñātājñātasvarūpatvāt pariṇāmi 
 
 
         </div>
-<!--
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.20">
             <p>ekasamaye cobhayānavadhāraṇam <label>[YS 4.20]</label></p>
           </quote>
 
-          <p>na caikasmin kṣaṇe svapararūpāvadhāraṇaṃ yuktaṃ, kṣaṇikavādino yad bhavanaṃ saiva kriyā
+          <p xml:id="YBh.4.20.1">na caikasmin kṣaṇe svaparobhayāvadhāraṇaṃ yuktaṃ, kṣaṇavādino yad bhavanaṃ saiva kriyā
             tad eva ca kārakam ity abhyupagamaḥ.</p>
 
-          <p>syān matiḥ svarasaniruddhaṃ cittaṃ cittāntareṇa samanantareṇa gṛhyata iti —</p>
+          <p xml:id="YBh.4.20.2">syān matiḥ svarasasanniruddhaṃ cittaṃ cittāntareṇa gṛhyata iti —</p>
 
 
         </div>
@@ -3261,21 +3260,23 @@ tato 'nyaḥ punar ajñātaḥ vastuno jñātājñātasvarūpatvāt pariṇāmi 
               4.21]</label></p>
           </quote>
 
-          <p>atha cittaṃ cec cittāntareṇa gṛhyeta buddhibuddhiḥ kena gṛhyate, sāpy anyayā sāpy
+          <p xml:id="YBh.4.21.1">yadi cittaṃ cittāntareṇa gṛhyeta, buddhibuddhiḥ kena gṛhyate, sāpy anyayā sāpy
             anyayety atiprasaṅgaḥ. smṛtisaṃkaraś ca, yāvanto buddhibuddhīnām anubhavās tāvatyaḥ
-            smṛtayaḥ prāpnuvanti. tatsaṃkarāc caikasmṛtyanavadhāraṇaṃ ca syād ity evaṃ
-            buddhipratisaṃvedinaṃ puruṣam apalapadbhir vaināśikaiḥ sarvam evākulīkṛtam. te tu
-            bhoktṛsvarūpaṃ yatra kvacana kalpayanto na nyāyena saṃgacchante kecit tu sattvamātram
+            smṛtayaḥ prāpnuvanti. tatsaṃkarāc smṛtyanavadhāraṇaṃ
+            buddhipratisaṃvedinaṃ puruṣam apalapadbhir vaināśikair ākulīkṛtam jagad iti. te
+            bhoktṛsvarūpaṃ yatra kvacana kalpayanto na nyāyena saṃgacchante. 
+ kecit sattvamātram
             api parikalpyāsti sa sattvo ya etān pañca skandhān nikṣipyānyāṃś ca pratisaṃdadhātīty
-            uktvā tata eva punas trasyanti. tathā skandhānāṃ mahannirvedāya virāgāyānutpādāya
-            praśāntaye guror antike brahmacaryaṃ cariṣyāmīty uktvā sattvasya punaḥ sattvam
-            evāpahnuvate. sāṃkhyayogādayas tu pravādāḥ svaśabdena puruṣam eva svāminaṃ cittasya
-            bhoktāram upayantīti.</p>
+            uktvā tata eva trasyanti. tathā skandhānāṃ mahānirvedāya virāgāyānutpādāya
+            praśāntaye guror antike brahmacaryaṃ carāmīty uktvā punaḥ sattvam
+            apahnuvate. sāṃkhyayogādayas tu pravādāḥ. svaśabdena puruṣam eva svāminaṃ cittasya
+            bhoktāram abhyupayantīti.</p>
 
-          <p>katham —</p>
+          <p xml:id="YBh.4.21.2">katham —</p>
 
 
         </div>
+<!--
         <div type="sūtra_with_bhāṣya">
           <quote type="base-text" xml:id="pātañjalayogaśāstra.sū.4.22">
             <p>citer apratisaṃkramāyās tadākārāpattau svabuddhisaṃvedanam <label>[YS
